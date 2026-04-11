@@ -1,5 +1,3 @@
-<h3 align="left">Prince</h3>
-
 ###
 
 <div align="center">
