@@ -27,10 +27,10 @@
 
 ###
 
-<div align="left">
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,c,cpp,html,css,tailwind,vite,react,nodejs,express,mongodb,mysql,git,github,postman" />
-</div>
+  <img src="https://skillicons.dev/icons?i=js,c,cpp,html,css,tailwind,vite,react" /><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,postman" />
 </div>
 
 ###
